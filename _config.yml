@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sraghavendran at perimeterinstitute dot ca"
+  arxiv            : "https://arxiv.org/search/?query=Raghavendran%2C+Surya&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
