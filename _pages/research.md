@@ -28,6 +28,7 @@ Seminal work of Kapustin-Witten shows that the Geometric Langlands correspondenc
 
 2. Khovanov Homology, Coherent Convoution 2-categories, and Surface Defects in a twist of 5d $\mathcal{N}=2$ Gauge Theory
 
+In my master's thesis I began a project to try and relate two constructions of Khovanov Homology. One is due to [Witten]() and realizes Khovanov Homology of a link $L$ as the Hilbert space for the theory living on a surface defect supported on $L\times\mathbb{R}$ in an A-type twist of 5d $\mathcal{N}=2$ gauge theory. Another is due to [Cautis-Kamnitzer] and uses a certain 2-category built out of coherent sheaves on convolution products of orbits in the affine Grassmannian. 
 
 3. 4d Chern-Simons with Gauge supergroup and Superspin chains
 
