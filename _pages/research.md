@@ -12,15 +12,13 @@ Below are some descriptions of my past and current projects.
 
 Past Projects
 ------
-<details>
   
-<summary> 1. Twisted S-duality (joint with [Philsang Yoo](https://sites.google.com/site/philsangyoo/)) </summary>
-
+1. Twisted S-duality (joint with [Philsang Yoo](https://sites.google.com/site/philsangyoo/))
 
 This project aims to illustrate a framework for the systematic and rigorous investigation of some mathematical implications of string dualities. The key ingredients are some amazing conjectures of Costello-Li giving descriptions of certain supersymmetry protected sectors of type II superstrings in terms of topological strings. This allows one to recover many calculational maneuvers familiar to string theorists in terms of data attached to a 5-Calabi-Yau category.  A key feature of these protected sectors is that the worldvolume theories of D-branes are twists of the worldvolume theories one normally finds. Since twists of supersymmetric field theories now sit on relatively firm mathematical foundations, these conjectures afford a useful framework for making mathematical conjectures about the effects of string dualities on various homotopical algebraic/derived geometric data attached to supersymmetric field theories. 
 
 As a first step in this direction, we derive the action of S-duality on a certain supersymmetry protected sector of type IIB string theory. In mathematical terms, this amounts to constructing an action of $SL_2(\mathbb{Z})$ on the cyclic cochains of a Calabi-Yau 3-fold. We then show that S-duality in this protected sector is responsible for the Geometric Langlands correspondence for $GL_n$, and for a description of the quantized Coulomb branch ring of A-twisted 3d $\mathcal{N}=4$ quiver gauge theories in terms of shifted truncated Yangians. We conclude with some conjectures about other S-dual deformations of 4d $\mathcal{N}=4$ that our framework suggests.
-</details>
+
 
 Current Projects
 ------
