@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 
+## Project Descriptions
 
+Below are some descriptions of my past and current projects - click on the title to expand! 
 
-Below are some descriptions of my past and current projects. 
-
-Past Projects
-------
+### Past Projects
 <details>
 <summary> Twisted S-duality (joint with <a href="https://sites.google.com/site/philsangyoo/">Philsang Yoo</a>)</summary>
 <p>
@@ -23,8 +22,7 @@ As a first step in this direction, we derive the action of S-duality on a certai
 </p>
 </details>
 
-Current Projects
-------
+### Current Projects
 <details>
 <summary> Towards Generalized Geometric Langlands Correspondences from Twisted S-duality (joint with <a href="https://www.perimeterinstitute.ca/people/richard-derryberry">Richard Derryberry</a>)</summary>
 
