@@ -14,7 +14,7 @@ Past Projects
 ------
 <details>
 <summary> Twisted S-duality (joint with <a href="https://sites.google.com/site/philsangyoo/">Philsang Yoo</a>)</summary>
-  
+\n
 <p>
 This project aims to illustrate a framework for the systematic and rigorous investigation of some mathematical implications of string dualities. The key ingredients are some amazing conjectures of Costello-Li giving descriptions of certain supersymmetry protected sectors of type II superstrings in terms of topological strings. This allows one to recover many calculational maneuvers familiar to string theorists in terms of data attached to a 5-Calabi-Yau category.  A key feature of these protected sectors is that the worldvolume theories of D-branes are twists of the worldvolume theories one normally finds. Since twists of supersymmetric field theories now sit on relatively firm mathematical foundations, these conjectures afford a useful framework for making mathematical conjectures about the effects of string dualities on various homotopical algebraic/derived geometric data attached to supersymmetric field theories. 
 </p>
