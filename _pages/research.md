@@ -38,7 +38,7 @@ This (in progress) project aims to establish a compatibility between twisted S-d
 </details>
 
 <details>
-<summary> Khovanov Homology, Coherent Convoution 2-categories, and Surface Defects in a twist of 5d $\mathcal{N}=2$ Gauge Theory<\summary>
+<summary> Khovanov Homology, Coherent Convoution 2-categories, and Surface Defects in a twist of 5d $\mathcal{N}=2$ Gauge Theory</summary>
 
 <p>
 In my master's thesis I began a project to try and relate two constructions of Khovanov Homology. One is due to [Witten](https://arxiv.org/abs/1101.3216) and realizes Khovanov Homology of a link $L$ as the Hilbert space for the theory living on a surface defect supported on $L\times\mathbb{R}$ in an A-type twist of 5d $\mathcal{N}=2$ gauge theory. Another is due to [Cautis-Kamnitzer](https://arxiv.org/abs/math/0701194) and uses a certain 2-category built out of coherent sheaves on convolution products of orbits in the affine Grassmannian. My master's work substantiated a claim that the 2-category of Cautis-Kamnitzer can be understood as a specific subcategory of the 2-category of surface defects in a holomorphic-topological twist of 5d $\mathcal{N}=2$ gauge theory.
