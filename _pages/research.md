@@ -15,6 +15,7 @@ Past Projects
 <details>
   
 <summary>
+  
 1. Twisted S-duality (joint with [Philsang Yoo](https://sites.google.com/site/philsangyoo/))
 
 </summary>
