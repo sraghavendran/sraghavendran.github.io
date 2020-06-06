@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+Lying at the intersection of mathematical physics, algebraic geometry, and representation theory, my work is largely characterized by the following motifs:
+* application of techniques from [derived](https://en.wikipedia.org/wiki/Derived_algebraic_geometry) and [noncommutative](https://ncatlab.org/nlab/show/derived+noncommutative+geometry) geometry to the study of [supersymmetric gauge theories](https://en.wikipedia.org/wiki/Supersymmetric_gauge_theory) and [superstring theories](https://en.wikipedia.org/wiki/Superstring_theory)
+* use of such ideas from physics as an organizing framework for [geometric representation theory](https://ncatlab.org/nlab/show/geometric+representation+theory).
 
 
 ## Project Descriptions
