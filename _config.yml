@@ -86,7 +86,7 @@ author:
   location         : "Toronto, ON"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "sraghavendran@perimeterinstitute.ca"
   arxiv            : "show" #can put anything here, the relevant include file contains the link
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
