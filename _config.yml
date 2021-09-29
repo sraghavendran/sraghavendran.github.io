@@ -77,7 +77,7 @@ analytics:
   google:
     tracking_id          :
 
-
+#To edit captions, look at _includes/author_profile.html
 # Site Author
 author:
   name             : "Surya Raghavendran"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sraghavendran at perimeterinstitute dot ca"
-  arxiv            : "https://arxiv.org/search/?query=Raghavendran%2C+Surya&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  email            : "sraghavendran@perimeterinstitute.ca"
+  arxiv            : "show" #can put anything here, the relevant include file contains the link
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
