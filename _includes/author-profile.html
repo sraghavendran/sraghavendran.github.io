@@ -28,9 +28,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-      <!-- ok I will try and add an arxiv thing -->
+      <!-- arXiv link added, icon needed-->
       {% if author.arxiv %}
-        <li><a href="https://arxiv.org/search/?query=Surya+Raghavendran&searchtype=all&source=header"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> arXiv</a></li>
+        <li><a href="https://arxiv.org/search/?query=Surya+Raghavendran&searchtype=all&source=header"> arXiv</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
