@@ -40,7 +40,7 @@ During Fall 2021, [Dylan Butson](), [Brian Williams](), and I are running a lear
 * [Twisted Holography](https://arxiv.org/abs/1812.09257) - Kevin Costello, Davide Gaiotto
 * [Topological Holography: The Example of The D2-D4 Brane System](https://arxiv.org/abs/1809.00372) - Nafiz Ishtiaque, Faroogh Moosavian, Yehao Zhou
 * [Twisted Supergravity and Koszul Duality: A case study in $\mathrm{AdS_3}$](https://arxiv.org/abs/2001.02177) - Kevin Costello, Natalie Paquette
-* [Giant gravitons in twisted solography](https://arxiv.org/abs/2106.14859) - Kasia Budzik, Davide Gaiotto
+* [Giant gravitons in twisted holography](https://arxiv.org/abs/2106.14859) - Kasia Budzik, Davide Gaiotto
 
 ### Examples in Twisted $\Omega$-deformed M-theory
 * [M-theory in the $\Omega$-background and 5-dimensional non-commutative gauge theory](https://arxiv.org/abs/1610.04144) - Kevin Costello
