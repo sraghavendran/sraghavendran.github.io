@@ -6,8 +6,22 @@ collection: seminars
 
 This is the webpage for an online seminar on the work of Kevin Costello and collaborators on twisted string theory, twisted holography, and relations to koszul duality. The seminar is being organized by Dylan Butson, myself, and Brian Williams. Those interested in participating should feel free to contact one of us for a zoom link.
 
-# Schedule
+## Schedule
+<table>
+  <tr>
+    <th> Date </th>
+    <th> Speaker </th>
+    <th> Title and Abstract </th>
+    <th> Recording </th>
+  </tr>
+  <tr>
+    <td> November 6 </td>
+    <td> Kevin Costello </td>
+    <td><details><summary>From physical holography to Koszul duality</summary> 
+      <p> Abstract: I will review how the physics statement of holography can be "twisted" to yield a statement that can be formulated mathematically.  I'll try to start at the beginning, and sketch the idea of twisting supersymmetric theories and supergravity, before moving on to trying to explain what holography looks like once you twist.</p></details></td>
+    <td></td>
+  </tr>
+</table>
 
-
-# References:
+## References:
 
