@@ -43,7 +43,7 @@ During Fall 2021, [Dylan Butson](), [Brian Williams](), and I are running a lear
 * [Giant gravitons in twisted solography](https://arxiv.org/abs/2106.14859) - Kasia Budzik, Davide Gaiotto
 
 ### Examples Twisted $\Omega$-deformed M-theory
-* [M-theory in the $Omega$-background and 5-dimensional non-commutative gauge theory](https://arxiv.org/abs/1610.04144) - Kevin Costello
+* [M-theory in the $\Omega$-background and 5-dimensional non-commutative gauge theory](https://arxiv.org/abs/1610.04144) - Kevin Costello
 * [Holography and Koszul duality: the example of the M2 brane](https://arxiv.org/abs/1705.02500) - Kevin Costello
 * [Aspects of $\Omega$-deformed M-theory](https://arxiv.org/abs/1907.06495) - Davide Gaiotto, Jihwan Oh
 * [Twisted M2 brane holography and sphere correlation functions](https://arxiv.org/abs/2004.13810) - Jacob Abajian, Davide Gaiotto
