@@ -28,7 +28,14 @@ As a first step in this direction, we derive the action of S-duality on a certai
 ### Current Projects
 <details>
 <summary> Minimally Twisted Eleven-Dimensional Supergravity (joint with <a href = "https://www.mathi.uni-heidelberg.de/~saberi/">Ingmar Saberi</a> and <a href = "https://sites.google.com/view/brianrwilliams/home?authuser=0">Brian Williams</a>)</summary>
+  
+<p> We study the $SU(5)$-invariant twist of eleven dimensional supergravity. We propose an interaction for the theory which satisfies the classical master equation, admits a quantization at 1-loop, and dimensionally reduces to recover expected descriptions of twists of type IIA and type I supergravity. Strikingly, the global symmetry algebra of the theory is a central extension of an exceptional simple lie superalgebra called $E(5,10)$ initially studied by Kac. We study the twisted analogues of $\mathrm{AdS}_4\times S^7$ and $\mathrm{AdS}_7\times S^4$ by backreacting $M2$ and $M5$ branes respectively and analyze the symmetries of such backgrounds.</p>
 </details>
+
+<details>
+<summary> A stringy perspective on the Bethe-Gauge correspondence for superspin chains (joint with Nafiz Ishtiaque, Faroogh Moosavian, and Junya Yagi)</summary>
+</details>
+
 <details>
 <summary> Towards Generalized Geometric Langlands Correspondences from Twisted S-duality (joint with <a href="https://www.perimeterinstitute.ca/people/richard-derryberry">Richard Derryberry</a>)</summary>
 
