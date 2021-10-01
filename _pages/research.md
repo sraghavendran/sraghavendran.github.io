@@ -27,6 +27,7 @@ As a first step in this direction, we derive the action of S-duality on a certai
 
 ### Current Projects
 <details>
+<summary> Minimally Twisted Eleven-Dimensional Supergravity (joint with <a href = "https://www.mathi.uni-heidelberg.de/~saberi/">Ingmar Saberi</a> and <a href = "https://sites.google.com/view/brianrwilliams/home?authuser=0">Brian Williams</a>)</summary>
 <summary> Towards Generalized Geometric Langlands Correspondences from Twisted S-duality (joint with <a href="https://www.perimeterinstitute.ca/people/richard-derryberry">Richard Derryberry</a>)</summary>
 
 <p>
