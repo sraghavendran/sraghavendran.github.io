@@ -13,17 +13,7 @@ My work lies somewhere at the intersection of mathematical physics, algebraic ge
 
 Below are some descriptions of my past and current projects - click on the title to expand! 
 
-### Past Projects
-<details>
-<summary> Twisted S-duality (joint with <a href="https://sites.google.com/site/philsangyoo/">Philsang Yoo</a>)</summary>
-<p>
-This project aims to illustrate a framework for the systematic and rigorous investigation of some mathematical implications of string dualities. The key ingredients are some amazing conjectures of <a href="https://arxiv.org/abs/1606.00365">Costello-Li</a> giving descriptions of certain supersymmetry protected sectors of type II superstrings in terms of topological strings. This allows one to recover many calculational maneuvers familiar to string theorists in terms of data attached to a 5-Calabi-Yau category.  A key feature of these protected sectors is that the worldvolume theories of D-branes are twists of the worldvolume theories one normally finds. Since twists of supersymmetric field theories now sit on relatively firm mathematical foundations, these conjectures afford a useful framework for making mathematical conjectures about the effects of string dualities on various homotopical algebraic/derived geometric data attached to supersymmetric field theories. 
-</p>
 
-<p>
-As a first step in this direction, we derive the action of S-duality on a certain supersymmetry protected sector of type IIB string theory. In mathematical terms, this amounts to constructing an action of $SL_2(\mathbb{Z})$ on the cyclic cochains of a Calabi-Yau 3-fold. We then show that S-duality in this protected sector is responsible for the Geometric Langlands correspondence for $GL_n$, and for a description of the quantized Coulomb branch ring of A-twisted 3d $\mathcal{N}=4$ quiver gauge theories in terms of shifted truncated Yangians. We conclude with some conjectures about other S-dual deformations of 4d $\mathcal{N}=4$ that our framework suggests.
-</p>
-</details>
 
 ### Current Projects
 <details>
@@ -45,6 +35,18 @@ As a first step in this direction, we derive the action of S-duality on a certai
 
 <p>
 This (in progress) project aims to establish a compatibility between twisted S-duality, and the so-called dolbeault Geomtric Langlands conjecture, in a way that hints at Langlands-like correspondences for other S-dual pairs of closed string fields. Mathematically, this is expressed as follows: let $\Sigma$ be a complex projective curve. A theorem of <a href="https://arxiv.org/abs/math/0604617">Donagi-Pantev</a> establishes a nontrivial self equivalence of the category $\mathrm{Coh}(\mathrm{Higgs}_{GL_n}\Sigma)$ away from the discriminant locus. We show this induces an action of $\mathbb{Z}/4\mathbb{Z}$ on $\mathcal{O}(T^*[1]\mathrm{Higgs}_{GL_n}\Sigma)$ viewed as Hamiltonian deformations of the shifted symplectic stack $T^*[1]\operatorname{Higgs}_{GL_n}(\Sigma)$. Further, we construct a map from the cyclic cochains $\mathrm{HC}^\bullet(T^*\Sigma\times\mathbb{C})\to\mathcal{O}(T^*[1]\mathrm{Higgs}_{GL_n}\Sigma)$ intertwining the action of twisted S-duality on the source with the action of $\mathbb{Z}/4\mathbb{Z}$ on the target. 
+</p>
+</details>
+
+### Past Projects
+<details>
+<summary> Twisted S-duality (joint with <a href="https://sites.google.com/site/philsangyoo/">Philsang Yoo</a>)</summary>
+<p>
+This project aims to illustrate a framework for the systematic and rigorous investigation of some mathematical implications of string dualities. The key ingredients are some amazing conjectures of <a href="https://arxiv.org/abs/1606.00365">Costello-Li</a> giving descriptions of certain supersymmetry protected sectors of type II superstrings in terms of topological strings. This allows one to recover many calculational maneuvers familiar to string theorists in terms of data attached to a 5-Calabi-Yau category.  A key feature of these protected sectors is that the worldvolume theories of D-branes are twists of the worldvolume theories one normally finds. Since twists of supersymmetric field theories now sit on relatively firm mathematical foundations, these conjectures afford a useful framework for making mathematical conjectures about the effects of string dualities on various homotopical algebraic/derived geometric data attached to supersymmetric field theories. 
+</p>
+
+<p>
+As a first step in this direction, we derive the action of S-duality on a certain supersymmetry protected sector of type IIB string theory. In mathematical terms, this amounts to constructing an action of $SL_2(\mathbb{Z})$ on the cyclic cochains of a Calabi-Yau 3-fold. We then show that S-duality in this protected sector is responsible for the Geometric Langlands correspondence for $GL_n$, and for a description of the quantized Coulomb branch ring of A-twisted 3d $\mathcal{N}=4$ quiver gauge theories in terms of shifted truncated Yangians. We conclude with some conjectures about other S-dual deformations of 4d $\mathcal{N}=4$ that our framework suggests.
 </p>
 </details>
 
