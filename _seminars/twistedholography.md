@@ -34,11 +34,14 @@ During Fall 2021, [Dylan Butson](), [Brian Williams](), and I are running a lear
 * [Twisted Holography](https://arxiv.org/abs/1812.09257) - Kevin Costello, Davide Gaiotto
 * [Topological Holography: The Example of The D2-D4 Brane System](https://arxiv.org/abs/1809.00372) - Nafiz Ishtiaque, Faroogh Moosavian, Yehao Zhou
 * [Twisted Supergravity and Koszul Duality: A case study in $\mathrm{AdS_3}$](https://arxiv.org/abs/2001.02177) - Kevin Costello, Natalie Paquette
+* [Giant gravitons in twisted solography](https://arxiv.org/abs/2106.14859) - Kasia Budzik, Davide Gaiotto
 
 ### Examples Twisted $\Omega$-deformed M-theory
-* []() - Kevin Costello
-* []() - Kevin Costello
-* []() - Davide Gaiotto, Jihwan Oh
-* []() - Jihwan Oh, Yehao Zhou
-* []() - Jihwan Oh, Yehao Zhou
-* []() - Jihwan Oh, Yehao Zhou
+* [M-theory in the $Omega$-background and 5-dimensional non-commutative gauge theory](https://arxiv.org/abs/1610.04144) - Kevin Costello
+* [Holography and Koszul duality: the example of the M2 brane](https://arxiv.org/abs/1705.02500) - Kevin Costello
+* [Aspects of $\Omega$-deformed M-theory](https://arxiv.org/abs/1907.06495) - Davide Gaiotto, Jihwan Oh
+* [Twisted M2 brane holography and sphere correlation functions](https://arxiv.org/abs/2004.13810) - Jacob Abajian, Davide Gaiotto
+* [Miura operators, degenerate fields and the M2-M5 intersection](https://arxiv.org/abs/2012.04118) - Davide Gaiotto, Miroslav Rapcak
+* [Feynman diagrams and $\Omega$-deformed M-theory](https://arxiv.org/abs/2002.07343) - Jihwan Oh, Yehao Zhou
+* [Twisted holography of defect fusions](https://arxiv.org/abs/2103.00963) - Jihwan Oh, Yehao Zhou
+* [A domain wall in twisted M-theory](https://arxiv.org/abs/2105.09537) - Jihwan Oh, Yehao Zhou
