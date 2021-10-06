@@ -19,7 +19,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Kevin Costello </td>
     <td><details><summary>From physical holography to Koszul duality</summary><br> 
       <p> Abstract: I will review how the physics statement of holography can be "twisted" to yield a statement that can be formulated mathematically.  I'll try to start at the beginning, and sketch the idea of twisting supersymmetric theories and supergravity, before moving on to trying to explain what holography looks like once you twist.</p></details></td>
-    <td></td>
+    <td> <a href="https://ed-ac-uk.zoom.us/rec/share/lIt0jdJ0QXCOZkeBV3jrciQKAmV5otQMvMg6Q5dwICt8NawN6cfnINxTg86Ctb2k.Ib4TKzs8h0RLeNXt">Video</a> </td>
   </tr>
   <tr>
     <td> October 11</td>
