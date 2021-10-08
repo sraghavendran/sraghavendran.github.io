@@ -4,9 +4,9 @@ excerpt: "Fall 2021"
 collection: seminars
 ---
 
-During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian Williams](https://sites.google.com/view/brianrwilliams/home?authuser=0), and I are running a learning seminar on the work of Kevin Costello and collaborators on twisted string theory, twisted holography, and relations to koszul duality. The seminar takes place online on **Mondays from 10:00-12:00 EST** unless otherwise stated. Those interested in participating should feel free to contact one of the organizers for a zoom link.
+During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian Williams](https://sites.google.com/view/brianrwilliams/home?authuser=0), and I are running a learning seminar on the work of Kevin Costello and collaborators on twisted string theory, twisted holography, and relations to koszul duality. The seminar takes place online on **Mondays from 10:00-12:00 EST** unless otherwise stated. Those interested in participating should feel free to contact one of the organizers for a zoom link. Notes from talks are available [here](https://sraghavendran.github.io/files/holography_notes.pdf), and will be updated as the seminar progresses. Any mistakes are mine; let me know if you find any. 
 
-## Schedule
+## Schedule:
 <table rules=none>
   <tr>
     <th> Date </th>
@@ -18,13 +18,14 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> October 6 </td>
     <td> Kevin Costello </td>
     <td><details><summary>From physical holography to Koszul duality</summary><br> 
-      <p> Abstract: I will review how the physics statement of holography can be "twisted" to yield a statement that can be formulated mathematically.  I'll try to start at the beginning, and sketch the idea of twisting supersymmetric theories and supergravity, before moving on to trying to explain what holography looks like once you twist.</p></details></td>
+      	<p> Abstract: I will review how the physics statement of holography can be "twisted" to yield a statement that can be formulated mathematically.  I'll try to start at the beginning, and sketch the idea of twisting supersymmetric theories and supergravity, before moving on to trying to explain what holography looks like once you twist.</p></details></td>
     <td> <a href="https://ed-ac-uk.zoom.us/rec/share/lIt0jdJ0QXCOZkeBV3jrciQKAmV5otQMvMg6Q5dwICt8NawN6cfnINxTg86Ctb2k.Ib4TKzs8h0RLeNXt">Video</a> <br> <a href="https://sraghavendran.github.io/files/costello_slides.pdf">Slides</a></td>
   </tr>
   <tr>
     <td> October 11</td>
     <td> Brian Williams </td>
-    <td></td>
+    <td><details><summary>A user's guide to holography</summary><br>
+	<p>Abstract: In this talk I want to explain some very basic ideas that appear in twisted holography. In fact, I won’t say anything about supersymmetric twists or AdS/CFT. Rather, I will introduce the basic mathematical ideas involved with framing holographic dualities; the most important of which is the concept of Koszul duality. I’ll work through a simplest example of Koszul duality and will draw parallels with a story in topological field theory.</p></details></td>
     <td></td>
   </tr>
 </table>
