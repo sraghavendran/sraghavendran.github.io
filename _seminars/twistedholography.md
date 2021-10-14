@@ -4,7 +4,7 @@ excerpt: "Fall 2021"
 collection: seminars
 ---
 
-During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian Williams](https://sites.google.com/view/brianrwilliams/home?authuser=0), and I are running a learning seminar on the work of Kevin Costello and collaborators on twisted string theory, twisted holography, and relations to koszul duality. The seminar takes place online on **Mondays from 10:00-12:00 EST** unless otherwise stated. Those interested in participating should feel free to contact one of the organizers for a zoom link. I'm keeping some [notes](https://sraghavendran.github.io/files/holography_notes.pdf) which will be updated as the seminar progresses. Any mistakes are mine; let me know if you find any. 
+During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian Williams](https://sites.google.com/view/brianrwilliams/home?authuser=0), and I are running a learning seminar on the work of Kevin Costello and collaborators on twisted string theory, twisted holography, and relations to koszul duality. The seminar takes place online on **TUESDAYS from 10:00-12:00 EST** unless otherwise stated. Those interested in participating should feel free to contact one of the organizers for a zoom link. I'm keeping some [notes](https://sraghavendran.github.io/files/holography_notes.pdf) which will be updated as the seminar progresses. Any mistakes are mine; let me know if you find any. 
 
 ## Schedule:
 <table rules=none>
