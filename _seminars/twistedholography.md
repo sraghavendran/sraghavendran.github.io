@@ -32,7 +32,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> October 19</td>
     <td> Surya Raghavendran </td>
     <td><details><summary>Topological strings and Twisted supergravity</summary><br>
-	<p>Abstract: To formulate a holographic correspondence at the level of twists, it is useful to have a mathematical way to discuss twists of superstrings. Costello-Li conjecture that twists of superstrings are equivalent to certain topological strings. The goal of this talk will be to  learn to work with the mathematical outputs of this conjecture. I'll introduce topological string analogues of open string field theory and closed string field theory. The former will recover twists of supersymmetric gauge theories, and the latter will contain twists of supergravity. I'll then discuss how to codify some ways in which the open and closed sectors interact.</p></details></td>
+	<p>Abstract: To formulate a holographic correspondence at the level of twists, it is useful to have a mathematical way of discussing twists of superstrings. Costello-Li conjecture that certain twists of superstrings are equivalent to topological strings. The goal of this talk will be to  learn to work with the mathematical outputs of this conjecture. I'll introduce topological string analogues of open string field theory and closed string field theory. The former will recover twists of supersymmetric gauge theories, and the latter will contain twists of supergravity. I'll then discuss how to codify some ways in which the open and closed sectors interact.</p></details></td>
     <td> </td>
   </tr>
 
