@@ -33,17 +33,28 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Surya Raghavendran </td>
     <td><details><summary>Topological strings and Twisted supergravity</summary><br>
 	<p>Abstract: To formulate a holographic correspondence at the level of twists, it is useful to have a mathematical way of discussing twists of superstrings. Costello-Li conjecture that certain twists of superstrings are equivalent to topological strings. The goal of this talk will be to  learn to work with the mathematical outputs of this conjecture. I'll introduce topological string analogues of open string field theory and closed string field theory. The former will recover twists of supersymmetric gauge theories, and the latter will contain twists of supergravity. I'll then discuss how to codify some ways in which the open and closed sectors interact.</p></details></td>
-    <td> </td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/Zx_FI9DzG0gBcjjgB1D09Wvpl2pWzFlsubclmiMxmpMJ4N2OYlUP3JCtDlpnQzyL.kL4KYz3cXiTScmYw">Video</a> <br> <a href = "https://sraghavendran.github.io/files/surya_slides.pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td> October 26</td>
+    <td> Dylan Butson</td>
+    <td><details><summary>Overview of the twisted holography program</summary><br>
+	<p>Abstract: I'll outline the general set-up for formulating twisted holography type conjectures following Kevin's program: I'll briefly recall the mathematical avatars of open and closed string field theories discussed in Surya's talk, explain how to use these to (somewhat) systematically extract classical field theory configurations from the string theory input data, and state Kevin's meta-conjecture about the expected holographic principle satisfied by quantizations of these setups, using the perspective on Koszul duality explained in Brian's talk (and his cool new paper with Natalie Paquette! https://arxiv.org/abs/2110.10257). In the remaining time, I'll discuss some expectations, methods, and challenges for carefully formulating such conjectures at the quantum level, and briefly survey some of the existing work in the field that we'll be hearing about in later talks.</p></details></td>
+    <td></td>
   </tr>
 
 </table>
 
 ## References:
 
+### Koszul Duality
+* [Koszul Duality in Quantum Field Theory](https://arxiv.org/abs/2110.10257) - Natalie Paquette, Brian Williams
+
 ### Background on Twisted Supergravity
 * [Twisted supergravity and its quantization](https://arxiv.org/abs/1606.00365) - Kevin Costello, Si Li
 * [Twisting pure spinor superfields, with applications to supergravity](https://arxiv.org/abs/2106.15639) - Ingmar Saberi, Brian Williams
 * [Maximally twisted eleven-dimensional supergravity](https://arxiv.org/abs/2106.15640) - Richard Eager, Fabian Hahner
+* [Twisted S-duality](https://arxiv.org/abs/1910.13653) - Surya Raghavendran, Philsang Yoo
 
 ### Examples in Twisted String Theory
 * [Twisted Holography](https://arxiv.org/abs/1812.09257) - Kevin Costello, Davide Gaiotto
