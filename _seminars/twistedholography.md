@@ -44,8 +44,9 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
   </tr>
 <tr>
     <td> November 2</td>
-    <td> Ben Gammage</td>
-    <td></td>
+    <td> Benjamin Gammage</td>
+    <td><details><summary>Skew howe duality from holography</summary><br>
+	<p>Abstract: After an introduction to computations in the A-model, we spend the talk bringing together all the previously discussed ingredients (except backreaction) from the mathematical approach to holography by working in detail through a simple A-model example (due to Surya) which will recover skew Howe duality.</p></details></td>
     <td></td>
   </tr>
 </table>
