@@ -47,7 +47,15 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Benjamin Gammage</td>
     <td><details><summary>Skew howe duality from holography</summary><br>
 	<p>Abstract: After an introduction to computations in the A-model, we spend the talk bringing together all the previously discussed ingredients (except backreaction) from the mathematical approach to holography by working in detail through a simple A-model example (due to Surya) which will recover skew Howe duality.</p></details></td>
-    <td><!-- <a href ="">Video</a> --> <br> <a href = "https://sraghavendran.github.io/files/ben_slides.pdf">Slides</a></td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/KtqYTBnQ4EmeD-Z3yjBaAOIuuL2J0-KQjfA7uj05RH34aQ8thqV7NH0Lj7nl_7Yu.LZ0VBcj9SrRIAurx
+">Video</a><br> <a href = "https://sraghavendran.github.io/files/ben_slides.pdf">Slides</a></td>
+  </tr>
+<tr>
+    <td> November 9</td>
+    <td> Brian Williams</td>
+    <td><details><summary>Brane couplings and Backreactions</summary><br>
+	<p>Abstract: An important part of the physical holography story is the how an ambient bulk theory is modified in the presence of defects, or branes. We’ll introduce this so-called `backreaction’. We will then go through a few examples related to the topological string and twists of the superstring.</p></details></td>
+    <td><!-- <a href ="">Video</a><br> <a href = "">Slides</a> --></td>
   </tr>
 </table>
 
