@@ -55,7 +55,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Brian Williams</td>
     <td><details><summary>Brane couplings and Backreactions</summary><br>
 	<p>Abstract: An important part of the physical holography story is the how an ambient bulk theory is modified in the presence of defects, or branes. We’ll introduce this so-called `backreaction’. We will then go through a few examples related to the topological string and twists of the superstring.</p></details></td>
-    <td><!-- <a href ="">Video</a><br> <a href = "">Slides</a> --></td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/s7iifTzrYfpCfkSXyjdS7Zwa6wmRJDWgYHl0B5cSTQjGfDuLgXS-GjRxibvwE53L.-OLxFFKOz_jSWbaO">Video</a><br> <a href = "https://sraghavendran.github.io/files/brian_slides2.pdf">Slides</a></td>
   </tr>
 </table>
 
