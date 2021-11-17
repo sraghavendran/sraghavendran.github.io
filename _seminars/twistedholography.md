@@ -57,6 +57,13 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 	<p>Abstract: An important part of the physical holography story is the how an ambient bulk theory is modified in the presence of defects, or branes. We’ll introduce this so-called `backreaction’. We will then go through a few examples related to the topological string and twists of the superstring.</p></details></td>
     <td><a href ="https://ed-ac-uk.zoom.us/rec/share/s7iifTzrYfpCfkSXyjdS7Zwa6wmRJDWgYHl0B5cSTQjGfDuLgXS-GjRxibvwE53L.-OLxFFKOz_jSWbaO">Video</a><br> <a href = "https://sraghavendran.github.io/files/brian_slides2.pdf">Slides</a></td>
   </tr>
+<tr>
+    <td> November 16</td>
+    <td> Nafiz Ishtiaque</td>
+    <td><details><summary>Physical approach to topological holography</summary><br>
+	<p>Abstract: I will review some basics of holographic duality like the decoupling limit and discuss how topological holography arises from the traditional physical approach of computing Feynman and Witten diagrams. I will discuss an elementary example, involving a topological analog of AdS_3/CFT_2 duality with defects. In algebraic terms, the duality will be presented as an isomorphism between Yangian algebras. Furthermore, I will present this as a supersymmetric subsector of the familiar AdS_5/CFT_4 duality.</p></details></td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/D3n97iqGCFnNHKG0_vKiudbL_Q_0pX6IS609x1R25KMNPQDz4ZbMR6014hzXcMVY.hefmgBtgbH5ZkmtU">Video</a><br> <a href = "https://sraghavendran.github.io/files/nafiz_slides.pdf">Slides</a></td>
+  </tr>
 </table>
 
 ## References:
