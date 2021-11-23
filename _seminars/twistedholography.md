@@ -64,6 +64,14 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 	<p>Abstract: I will review some basics of holographic duality like the decoupling limit and discuss how topological holography arises from the traditional physical approach of computing Feynman and Witten diagrams. I will discuss an elementary example, involving a topological analog of AdS_3/CFT_2 duality with defects. In algebraic terms, the duality will be presented as an isomorphism between Yangian algebras. Furthermore, I will present this as a supersymmetric subsector of the familiar AdS_5/CFT_4 duality.</p></details></td>
     <td><a href ="https://ed-ac-uk.zoom.us/rec/share/D3n97iqGCFnNHKG0_vKiudbL_Q_0pX6IS609x1R25KMNPQDz4ZbMR6014hzXcMVY.hefmgBtgbH5ZkmtU">Video</a><br> <a href = "https://sraghavendran.github.io/files/nafiz_slides.pdf">Slides</a></td>
   </tr>
+  <tr>
+    <td> November 23</td>
+    <td> Davide Gaiotto</td>
+    <td><details><summary>Twisted Holography</summary><br>
+	<p>Abstract: I will review the twisted holography setup relating the protected chiral algebra of N=4 SYM to the B-model on SL(2,C).</p></details></td>
+    <td><a href ="https://utoronto.zoom.us/rec/share/8J2ajV74FNEC8N8dJ21h0g4xF92-FyoLW9wTMqu3I0UoB0uowT8Wdl9CE8pACcXr.BsrdhIYau1-_NAmK?startTime=1637679841000">Video</a> <!-- <br> <a href = "https://sraghavendran.github.io/files/nafiz_slides.pdf">Slides</a> --></td>
+  </tr>
+
 </table>
 
 ## References:
