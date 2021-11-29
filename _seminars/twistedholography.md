@@ -69,7 +69,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Davide Gaiotto</td>
     <td><details><summary>Twisted Holography</summary><br>
 	<p>Abstract: I will review the twisted holography setup relating the protected chiral algebra of N=4 SYM to the B-model on SL(2,C).</p></details></td>
-    <td><a href ="https://utoronto.zoom.us/rec/share/8J2ajV74FNEC8N8dJ21h0g4xF92-FyoLW9wTMqu3I0UoB0uowT8Wdl9CE8pACcXr.BsrdhIYau1-_NAmK?startTime=1637679841000">Video</a> <!-- <br> <a href = "https://sraghavendran.github.io/files/nafiz_slides.pdf">Slides</a> --></td>
+    <td><a href ="https://utoronto.zoom.us/rec/share/8J2ajV74FNEC8N8dJ21h0g4xF92-FyoLW9wTMqu3I0UoB0uowT8Wdl9CE8pACcXr.BsrdhIYau1-_NAmK?startTime=1637679841000">Video</a> (Passcode: ?Nq!^BzE0p)  <!-- <br> <a href = "https://sraghavendran.github.io/files/.pdf">Slides</a> --></td>
   </tr>
 
 </table>
