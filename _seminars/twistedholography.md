@@ -71,6 +71,20 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 	<p>Abstract: I will review the twisted holography setup relating the protected chiral algebra of N=4 SYM to the B-model on SL(2,C).</p></details></td>
     <td><a href ="https://utoronto.zoom.us/rec/share/8J2ajV74FNEC8N8dJ21h0g4xF92-FyoLW9wTMqu3I0UoB0uowT8Wdl9CE8pACcXr.BsrdhIYau1-_NAmK?startTime=1637679841000">Video</a> (Passcode: ?Nq!^BzE0p)  <!-- <br> <a href = "https://sraghavendran.github.io/files/.pdf">Slides</a> --></td>
   </tr>
+ <tr>
+    <td> November 30</td>
+    <td> Kasia Budzik</td>
+    <td><details><summary>Giant gravitons in twisted holography</summary><br>
+	<p>Abstract: I will talk about the correlation functions of determinant operators in the chiral algebra subsector of N = 4 SYM, which are dual to the Giant Graviton branes in the B-model on SL(2,C). For each large-N saddle of the correlation functions of determinants, we will define a spectral curve in SL(2,C), which we will identify with the worldsheet of the dual Giant Graviton brane.</p></details></td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/QGKfZXC1pH_-GQgRo_CeOSBNl91-bxuKLTq2H-HhHfj9dVXZfOjDe3DrokKsWFHH.njAy8txG-AD0jUSP">Video</a> <br> <a href = "https://sraghavendran.github.io/files/kasia_slides.pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td> December 7</td>
+    <td> Jihwan Oh</td>
+    <td><!-- <details><summary></summary><br>
+	<p>Abstract: I will talk about the correlation functions of determinant operators in the chiral algebra subsector of N = 4 SYM, which are dual to the Giant Graviton branes in the B-model on SL(2,C). For each large-N saddle of the correlation functions of determinants, we will define a spectral curve in SL(2,C), which we will identify with the worldsheet of the dual Giant Graviton brane.</p></details> --> </td>
+    <td><!-- <a href ="https://ed-ac-uk.zoom.us/rec/share/QGKfZXC1pH_-GQgRo_CeOSBNl91-bxuKLTq2H-HhHfj9dVXZfOjDe3DrokKsWFHH.njAy8txG-AD0jUSP">Video</a> <br> <a href = "https://sraghavendran.github.io/files/kasia_slides.pdf">Slides</a>-- ></td>
+  </tr>
 
 </table>
 
