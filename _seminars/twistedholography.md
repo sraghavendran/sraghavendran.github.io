@@ -81,9 +81,9 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
   <tr>
     <td> December 7</td>
     <td> Jihwan Oh</td>
-    <td><!-- <details><summary></summary><br>
-	<p>Abstract: I will talk about the correlation functions of determinant operators in the chiral algebra subsector of N = 4 SYM, which are dual to the Giant Graviton branes in the B-model on SL(2,C). For each large-N saddle of the correlation functions of determinants, we will define a spectral curve in SL(2,C), which we will identify with the worldsheet of the dual Giant Graviton brane.</p></details> --> </td>
-    <td><!-- <a href ="https://ed-ac-uk.zoom.us/rec/share/QGKfZXC1pH_-GQgRo_CeOSBNl91-bxuKLTq2H-HhHfj9dVXZfOjDe3DrokKsWFHH.njAy8txG-AD0jUSP">Video</a> <br> <a href = "https://sraghavendran.github.io/files/kasia_slides.pdf">Slides</a> --></td>
+    <td><details><summary>Review of twisted M-theory</summary><br>
+	<p>Abstract: I will review some basics of twisted M-theory mostly based on 1610.04144, 1705.02500, 1907.06495.</p></details></td>
+    <td><!-- <a href ="https://ed-ac-uk.zoom.us/rec/share/QGKfZXC1pH_-GQgRo_CeOSBNl91-bxuKLTq2H-HhHfj9dVXZfOjDe3DrokKsWFHH.njAy8txG-AD0jUSP">Video</a> --><br> <a href = "https://sraghavendran.github.io/files/jihwan_slides.pdf">Slides</a></td>
   </tr>
 
 </table>
@@ -98,7 +98,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 * [Quantization of open-closed BCOV theory, I](https://arxiv.org/abs/1505.06703) - Kevin Costello, Si Li
 * [Anomaly cancellation in the topological string](https://arxiv.org/abs/1905.09269) - Kevin Costello, Si Li
 * [Twisting pure spinor superfields, with applications to supergravity](https://arxiv.org/abs/2106.15639) - Ingmar Saberi, Brian Williams
-* [Maximally twisted eleven-dimensional supergravity](https://arxiv.org/abs/2106.15640) - Richard Eager, Fabian Hahner
+* [Maximally twisted eleven-dimensional supergravity](https://arxiv.org/abs/2106.15640) - Richard Eager, Fabian HahnerReview of twisted M-theoryReview of twisted M-theory
 * [Twisted S-duality](https://arxiv.org/abs/1910.13653) - Surya Raghavendran, Philsang Yoo
 
 ### Examples in Twisted String Theory
@@ -116,3 +116,4 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 * [Feynman diagrams and $\Omega$-deformed M-theory](https://arxiv.org/abs/2002.07343) - Jihwan Oh, Yehao Zhou
 * [Twisted holography of defect fusions](https://arxiv.org/abs/2103.00963) - Jihwan Oh, Yehao Zhou
 * [A domain wall in twisted M-theory](https://arxiv.org/abs/2105.09537) - Jihwan Oh, Yehao Zhou
+* [Evidence for an Algebra of $G_2$ Instantons](https://arxiv.org/abs/2109.01110) - Jihwan Oh, Yehao Zhou
