@@ -83,7 +83,14 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Jihwan Oh</td>
     <td><details><summary>Review of twisted M-theory</summary><br>
 	<p>Abstract: I will review some basics of twisted M-theory mostly based on 1610.04144, 1705.02500, 1907.06495.</p></details></td>
-    <td><!-- <a href ="https://ed-ac-uk.zoom.us/rec/share/QGKfZXC1pH_-GQgRo_CeOSBNl91-bxuKLTq2H-HhHfj9dVXZfOjDe3DrokKsWFHH.njAy8txG-AD0jUSP">Video</a> --><br> <a href = "https://sraghavendran.github.io/files/jihwan_slides.pdf">Slides</a></td>
+    <td><a href =" https://ed-ac-uk.zoom.us/rec/share/nXT7hSt2j7NOGWDI5jqKK8VgcxCkwkTzXWvVEjkzFLXkv7BHIBjPen9kSImH407S.gEaohiT512B196F4">Video</a><br> <a href = "https://sraghavendran.github.io/files/jihwan_slides.pdf">Slides</a></td>
+  </tr>
+<tr>
+    <td> December 14</td>
+    <td> Yehao Zhou</td>
+    <td><details><summary>Algebras of observables of 4d and 5d topological-holomorphic Chern-Simons theories</summary><br>
+	<p>Abstract: This talk is an addendum to Nafiz and Jihwan’s talks. I will explain how to properly define the large-N limit of the algebras of observables in 4d and 5d Chern-Simons theories discussed in previous talks. And then discuss some features of these algebras, for example generators and relations, coproducts, etc.</p></details></td>
+    <td><!-- <a href =" https://ed-ac-uk.zoom.us/rec/share/nXT7hSt2j7NOGWDI5jqKK8VgcxCkwkTzXWvVEjkzFLXkv7BHIBjPen9kSImH407S.gEaohiT512B196F4">Video</a><br> <a href = "https://sraghavendran.github.io/files/jihwan_slides.pdf">Slides</a> --></td>
   </tr>
 
 </table>
@@ -98,7 +105,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
 * [Quantization of open-closed BCOV theory, I](https://arxiv.org/abs/1505.06703) - Kevin Costello, Si Li
 * [Anomaly cancellation in the topological string](https://arxiv.org/abs/1905.09269) - Kevin Costello, Si Li
 * [Twisting pure spinor superfields, with applications to supergravity](https://arxiv.org/abs/2106.15639) - Ingmar Saberi, Brian Williams
-* [Maximally twisted eleven-dimensional supergravity](https://arxiv.org/abs/2106.15640) - Richard Eager, Fabian HahnerReview of twisted M-theoryReview of twisted M-theory
+* [Maximally twisted eleven-dimensional supergravity](https://arxiv.org/abs/2106.15640) - Richard Eager, Fabian Hahner
 * [Twisted S-duality](https://arxiv.org/abs/1910.13653) - Surya Raghavendran, Philsang Yoo
 
 ### Examples in Twisted String Theory
