@@ -90,7 +90,14 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Yehao Zhou</td>
     <td><details><summary>Algebras of observables of 4d and 5d topological-holomorphic Chern-Simons theories</summary><br>
 	<p>Abstract: This talk is an addendum to Nafiz and Jihwan’s talks. I will explain how to properly define the large-N limit of the algebras of observables in 4d and 5d Chern-Simons theories discussed in previous talks. And then discuss some features of these algebras, for example generators and relations, coproducts, etc.</p></details></td>
-    <td><!-- <a href =" https://ed-ac-uk.zoom.us/rec/share/nXT7hSt2j7NOGWDI5jqKK8VgcxCkwkTzXWvVEjkzFLXkv7BHIBjPen9kSImH407S.gEaohiT512B196F4">Video</a><br> <a href = "https://sraghavendran.github.io/files/jihwan_slides.pdf">Slides</a> --></td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/lZ2bqBbDN_XvSahgkcWqaLpGydphufmjSxW4KyNtikkrjzBrtCsSwpItJ-ok5MQ7.LjA6QckY6cZlpxVg">Video</a><br> <a href = "https://sraghavendran.github.io/files/yehao_slides.pdf">Slides</a> </td>
+  </tr>
+<tr>
+    <td> December 21</td>
+    <td> Ji Hoon Lee</td>
+    <td><details><summary>A microscopic expansion for superconformal indices</summary><br>
+	<p>Abstract: I discuss a novel expansion of superconformal indices of U(N) gauge theories at finite N. When a holographic description is available, the formula expresses the index as a sum over stacks of "giant graviton" branes in the dual string theory. We derive these contributions in gauge theory by counting determinant operators and their modifications. Surprisingly, the expansion seems to be exact: the sum over strings and branes seems to capture the degeneracy of states expected from saddle geometries, while also reproducing the correct degeneracies at lower orders of charges. We thus conjecture that determinant operators and their modifications, dressed with usual operators of the multi-trace form, exhaust the Q-cohomology at finite N. Based on 2109.02545 and work in progress with D. Gaiotto.</p></details></td>
+    <td><!-- <a href ="https://ed-ac-uk.zoom.us/rec/share/lZ2bqBbDN_XvSahgkcWqaLpGydphufmjSxW4KyNtikkrjzBrtCsSwpItJ-ok5MQ7.LjA6QckY6cZlpxVg">Video</a><br> <a href = "https://sraghavendran.github.io/files/yehao_slides.pdf">Slides</a> --> </td>
   </tr>
 
 </table>
