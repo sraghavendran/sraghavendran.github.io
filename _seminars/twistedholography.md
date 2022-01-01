@@ -97,7 +97,7 @@ During Fall 2021, [Dylan Butson](http://www.math.toronto.edu/dbutson/), [Brian W
     <td> Ji Hoon Lee</td>
     <td><details><summary>A microscopic expansion for superconformal indices</summary><br>
 	<p>Abstract: I discuss a novel expansion of superconformal indices of U(N) gauge theories at finite N. When a holographic description is available, the formula expresses the index as a sum over stacks of "giant graviton" branes in the dual string theory. We derive these contributions in gauge theory by counting determinant operators and their modifications. Surprisingly, the expansion seems to be exact: the sum over strings and branes seems to capture the degeneracy of states expected from saddle geometries, while also reproducing the correct degeneracies at lower orders of charges. We thus conjecture that determinant operators and their modifications, dressed with usual operators of the multi-trace form, exhaust the Q-cohomology at finite N. Based on 2109.02545 and work in progress with D. Gaiotto.</p></details></td>
-    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/TpKVVEpOn3uyQGCh9edKNpAqzPVGprZ_JUzr-40aQ5YPE3ZOFbXslm0m42g26Raf.9tggM-3gumbqlrT3">Video</a><br> <a href = "https://sraghavendran.github.io/files/jihoon_slides.pdf">Slides</a> --> </td>
+    <td><a href ="https://ed-ac-uk.zoom.us/rec/share/TpKVVEpOn3uyQGCh9edKNpAqzPVGprZ_JUzr-40aQ5YPE3ZOFbXslm0m42g26Raf.9tggM-3gumbqlrT3">Video</a><br> <a href = "https://sraghavendran.github.io/files/jihoon_slides.pdf">Slides</a></td>
   </tr>
 
 </table>
