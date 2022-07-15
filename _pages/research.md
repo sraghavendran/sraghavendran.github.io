@@ -31,7 +31,7 @@ Below are some descriptions of my past and current projects - click on the title
 A powerful invariant of superconformal field theories is the superconformal index, which is a generating function for the $R$-charges of BPS operators in the theory. Recently, it has been suggested in four dimensional examples that the superconformal index counts exactly those operators that survive the holomorphic twist. </p>
 
 <p>
-We investigate categorifications of superconformal indices of ABJM theories and the $6d \mathcal{N}=(2,0)$ theories in terms of topological-holomorphic factorization algebras of observables. As a first step, we construct these factorization algebras classically. The main technique is <a href = "https://arxiv.org/pdf/2110.10257">koszul duality</a>, in its physical incarnation as a <a href = "https://arxiv.org/abs/1705.02500">twisted form of holography</a>, applied to the minimal twist of eleven dimensional supergravity (see below). Strikingly, the koszul descriptions suggest that the superconformal indices naturally arise as characters of modules for certain exceptional simple lie superalgebras $E(1|6)$ and $E(3|6)$ first studied by Kac.
+We investigate categorifications of superconformal indices of ABJM theories and the 6d $\mathcal{N}=(2,0)$ theories in terms of topological-holomorphic factorization algebras of observables. As a first step, we construct these factorization algebras classically. The main technique is <a href = "https://arxiv.org/pdf/2110.10257">koszul duality</a>, in its physical incarnation as a <a href = "https://arxiv.org/abs/1705.02500">twisted form of holography</a>, applied to the minimal twist of eleven dimensional supergravity (see below). Strikingly, the koszul descriptions suggest that the superconformal indices naturally arise as characters of modules for certain exceptional simple lie superalgebras $E(1|6)$ and $E(3|6)$ first studied by Kac.
 </p>
 </details>
 
@@ -39,7 +39,7 @@ We investigate categorifications of superconformal indices of ABJM theories and 
 <summary>
 Interacting Holomorphic Fivebranes (joint with <a href = "https://sites.google.com/view/brianrwilliams/home?authuser=0">Brian Williams</a>)
 </summary>
-We construct a holomorphic factorization algebra in 3 complex dimensions that conjecturally describes the algebra of observables of the holomorphic twist of the $6d \mathcal{N}=(2,0)$ SCFT for $A_2$. 
+We construct a holomorphic factorization algebra in 3 complex dimensions that conjecturally describes the algebra of observables of the holomorphic twist of the 6d $\mathcal{N}=(2,0)$ SCFT for $A_2$. 
 </details>
 
 ### Past Projects
