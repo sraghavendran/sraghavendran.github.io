@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Surya Raghavendran"
   avatar           : "profilepic.jpg"
-  bio              : "PhD Student in Mathematical Physics"
-  location         : "Toronto, ON"
+  bio              : "Postdoctoral researcher in Mathematical Physics"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sraghavendran@perimeterinstitute.ca"
+  email            : "surya.raghavendran@yale.edu"
   arxiv            : "show" #can put anything here, the relevant include file contains the link
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
