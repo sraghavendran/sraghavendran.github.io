@@ -1,7 +1,7 @@
 ---
 title: "MATH 222 - Linear algebra with Applications"
 excerpt: ""
-collection: seminars
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-math222
 venue: "Yale University, Department of Mathematics"
