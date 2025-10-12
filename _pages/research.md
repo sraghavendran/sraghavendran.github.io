@@ -21,6 +21,8 @@ Quantum groups arise as symmetries of exactly solvable models in statistical mec
 
 ## Project Descriptions
 
+WARNING - The below has not been updated since I was a a graduate student. For a more up-to-date account on what I have written, checkout my arXiv or inspire-hep profiles. For an account of my broader research program, send me an email.
+
 Below are some descriptions of my past and current projects - click on the title to expand! 
 
 ### Current Projects
@@ -107,5 +109,6 @@ In my master's thesis I began a project to try and relate two constructions of K
 Since then, I have given a brane realization for the construction in my master's work in a particular twist of type IIA string theory. This brane realization can be lifted to a <a href= "https://arxiv.org/abs/1610.04144">twist of M-theory</a> studied by Costello, and upon doing so, matches the M-theoretic lift of the brane construction originally studied by Witten. Further work of <a href="https://arxiv.org/abs/1410.1175">Mykhailov-Witten</a> uses a slight modification of the original brane construction to construct a knot homology they call "Khovanov homology for supergroups". The M-theoretic lift of this modification suggests a variation of the construction of my master's work that yields a certain geometrically defined 2-category from which Mykhailov-Witten's knot homology can conjecturally be computed as a certain Ext. I hope to further explore these ideas in the future.
 </p>
 </details>
+
 
 
