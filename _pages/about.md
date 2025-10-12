@@ -10,10 +10,10 @@ redirect_from:
 
 Hi! I'm Surya. 
 
-I'm a Gibbs Assistant Professor in the Department of Mathematics at Yale University. During the 2024-25 academic year I am a Postdoctoral Research Associate in the School of Mathematics at University of Edinburgh.
 
-I like to work on problems in geometry and representation theory that explore ideas in high energy physics. For more details check out my [research](https://sraghavendran.github.io/research/) page or my [CV](https://sraghavendran.github.io/files/CV/cv.pdf).
+I am a mathematician who likes to work on problems in geometry and representation theory that explore ideas in high energy physics. For more details check out my [research](https://sraghavendran.github.io/research/) page or my [CV](https://sraghavendran.github.io/files/CV/cv.pdf).
 
-Before coming to Yale, I completed my PhD in mathematics at the Perimeter Institute for Theoretical Physics and the University of Toronto, where my advisor was [Kevin Costello](https://www.perimeterinstitute.ca/people/kevin-costello). Before that, I was an undergraduate at the University of Texas at Austin. 
+Since 2023 I have been a Gibbs Assistant Professor in the Department of Mathematics at Yale University, and as of Fall 2025, I am fortunate to be additionally supported by an NSF Postdoctoral Research Fellowship. During the 2024-25 academic year I had a brief stint as a Postdoctoral Research Associate in the School of Mathematics at University of Edinburgh. Before coming to Yale, I completed my PhD in mathematics at the Perimeter Institute for Theoretical Physics and the University of Toronto, and before that, I was an undergraduate at the University of Texas at Austin. 
+
 
 
